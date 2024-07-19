@@ -8,6 +8,5 @@ function App() {
     </Box>
   );
 }
-  
 
-export default App
+export default App;
